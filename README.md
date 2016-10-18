@@ -1,0 +1,2 @@
+# Factory-Implementation-InstaceFactory
+FactoryPattern-Implementation-InstaceFactory
